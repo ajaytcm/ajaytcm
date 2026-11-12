@@ -24,9 +24,16 @@ SQL · Microsoft Excel · Power BI · Plex ERP · Test management & defect track
 - M.S. Technology Management, University of Bridgeport · B.Tech Aeronautical Engineering
 - Certifications: Six Sigma Green Belt · Bloomberg Market Concepts
 
-## In this account
+## Projects in this account
 
-- **data-quality-projects** — hands-on samples of my work: SQL data-quality checks and QA artifacts (test plan, test cases, defect log) built on sample data
+All projects use labelled sample data and show the working, not just the result.
+
+| Project | What it shows |
+|---------|---------------|
+| **data-quality-projects** | SQL data-quality checks (duplicates, orphans, invalid values) with a written findings report, plus QA artifacts |
+| **excel-data-quality** | Cleaning and validating a messy supplier-orders file in Excel — deduplication, standardisation, a VLOOKUP price-variance check, PivotTable summaries |
+| **qa-testing-suite** | A full manual test cycle on a demo web shop: test plan, 15 test cases, defect log, summary report |
+| **power-bi-quality-dashboard** | A Power BI page for defect rate and on-time delivery, built from weekly quality metrics |
 
 ## Links
 
