@@ -35,6 +35,7 @@ All projects use labelled sample data and show the working, not just the result.
 | **qa-testing-suite** | A full manual test cycle on a demo web shop: test plan, 15 test cases, defect log, summary report |
 | **power-bi-quality-dashboard** | A Power BI page for defect rate and on-time delivery, built from weekly quality metrics |
 | **demand-planner-toolkit** | Excel demand-planning toolkit: moving-average and exponential-smoothing forecasts with MAPE/bias accuracy, safety stock and reorder point, and a PSI (production–sales–inventory) plan |
+| **quality-inspector-toolkit** | Excel quality inspector toolkit for automotive manufacturing: incoming inspection against spec with automatic PASS/FAIL, a final-inspection defect Pareto, a final vehicle checklist, and an 8D corrective-action log |
 
 ## Links
 
