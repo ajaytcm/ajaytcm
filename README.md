@@ -34,6 +34,7 @@ All projects use labelled sample data and show the working, not just the result.
 | **excel-data-quality** | Cleaning and validating a messy supplier-orders file in Excel — deduplication, standardisation, a VLOOKUP price-variance check, PivotTable summaries |
 | **qa-testing-suite** | A full manual test cycle on a demo web shop: test plan, 15 test cases, defect log, summary report |
 | **power-bi-quality-dashboard** | A Power BI page for defect rate and on-time delivery, built from weekly quality metrics |
+| **demand-planner-toolkit** | Excel demand-planning toolkit: moving-average and exponential-smoothing forecasts with MAPE/bias accuracy, safety stock and reorder point, and a PSI (production–sales–inventory) plan |
 
 ## Links
 
