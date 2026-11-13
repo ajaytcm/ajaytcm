@@ -36,6 +36,7 @@ All projects use labelled sample data and show the working, not just the result.
 | **power-bi-quality-dashboard** | A Power BI page for defect rate and on-time delivery, built from weekly quality metrics |
 | **demand-planner-toolkit** | Excel demand-planning toolkit: moving-average and exponential-smoothing forecasts with MAPE/bias accuracy, safety stock and reorder point, and a PSI (production–sales–inventory) plan |
 | **quality-inspector-toolkit** | Excel quality inspector toolkit for automotive manufacturing: incoming inspection against spec with automatic PASS/FAIL, a final-inspection defect Pareto, a final vehicle checklist, and an 8D corrective-action log |
+| **supplier-quality-scorecard** | Excel supplier quality scorecard — OTIF tracking, defect PPM, weighted supplier ratings (Quality 40 / Delivery 30 / Cost 15 / Responsiveness 15) and a live dashboard, on sample data |
 
 ## Links
 
